@@ -1,0 +1,757 @@
+# Copyright (C) 2018 Themient.com
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Realistic 1.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-02-2018 23:51+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Page  Not Found"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"Sorry! That page doesn't seem to exist. You could return to the previous "
+"page."
+msgstr ""
+
+#: 404.php:22
+msgid "Go Back"
+msgstr ""
+
+#: archive.php:43 index.php:39 search.php:38
+msgid "&#8249; Previous"
+msgstr ""
+
+#: archive.php:44 index.php:40 search.php:39
+msgid "Next &#8250;"
+msgstr ""
+
+#: comments.php:20
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:29
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:29
+msgid " One Comment"
+msgstr ""
+
+#: comments.php:29
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:59
+msgid "Add a Comment"
+msgstr ""
+
+#: comments.php:61
+msgid "Add Comment"
+msgstr ""
+
+#: comments.php:69
+msgid "Name"
+msgstr ""
+
+#: comments.php:72 inc/defaults.php:83
+msgid "Email"
+msgstr ""
+
+#: comments.php:75
+msgid "Website"
+msgstr ""
+
+#: functions.php:37
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:38
+msgid "Mobile Menu"
+msgstr ""
+
+#: functions.php:87
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions.php:209
+msgid "Author"
+msgstr ""
+
+#: functions.php:217
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:218
+msgid "Reply"
+msgstr ""
+
+#: functions.php:224
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search for"
+msgstr ""
+
+#: searchform.php:14
+msgid "Search &#8230;"
+msgstr ""
+
+#: inc/common.php:16
+msgid "year"
+msgstr ""
+
+#: inc/common.php:16
+msgid "years"
+msgstr ""
+
+#: inc/common.php:17
+msgid "month"
+msgstr ""
+
+#: inc/common.php:17
+msgid "months"
+msgstr ""
+
+#: inc/common.php:18
+msgid "week"
+msgstr ""
+
+#: inc/common.php:18
+msgid "weeks"
+msgstr ""
+
+#: inc/common.php:19
+msgid "day"
+msgstr ""
+
+#: inc/common.php:19
+msgid "days"
+msgstr ""
+
+#: inc/common.php:20
+msgid "hour"
+msgstr ""
+
+#: inc/common.php:20
+msgid "hours"
+msgstr ""
+
+#: inc/common.php:21
+msgid "minute"
+msgstr ""
+
+#: inc/common.php:21
+msgid "minutes"
+msgstr ""
+
+#: inc/common.php:22
+msgid "second"
+msgstr ""
+
+#: inc/common.php:22 inc/common.php:55
+msgid "seconds"
+msgstr ""
+
+#: inc/common.php:39
+msgid "sometime"
+msgstr ""
+
+#: inc/common.php:58
+msgid " ago"
+msgstr ""
+
+#: inc/common.php:100
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr ""
+
+#: inc/common.php:115
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr ""
+
+#: inc/common.php:140
+msgid ", "
+msgstr ""
+
+#: inc/common.php:142
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/common.php:246
+msgid "/"
+msgstr ""
+
+#: inc/common.php:252
+msgid "Home"
+msgstr ""
+
+#: inc/customizer.php:28
+msgid "General"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Date Format"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Site Default"
+msgstr ""
+
+#: inc/customizer.php:33
+msgid "Time Ago"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:40
+msgid "Logo Image"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Footer Text"
+msgstr ""
+
+#: inc/customizer.php:51
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer.php:54 inc/customizer.php:67
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid ""
+"Excerpt length (in Words) for Homepage & archive pages. Min is 0, max is "
+"500. Set to 0 to disable."
+msgstr ""
+
+#: inc/customizer.php:61
+msgid "Articles"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:70 template-parts/content-single-related.php:54
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer.php:73
+msgid "Related Posts Number"
+msgstr ""
+
+#: inc/customizer.php:76
+msgid "Related Posts Query"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer.php:78
+msgid "Categories"
+msgstr ""
+
+#: inc/customizer.php:82
+msgid "Next/Previous Links"
+msgstr ""
+
+#: inc/customizer.php:85
+msgid "Author Box"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Design"
+msgstr ""
+
+#: inc/customizer.php:92
+msgid "Display"
+msgstr ""
+
+#: inc/customizer.php:98
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:115
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:117 inc/customizer.php:168
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "None"
+msgstr ""
+
+#: inc/customizer.php:119
+msgid "Pattern"
+msgstr ""
+
+#: inc/customizer.php:120
+msgid "Custom Image"
+msgstr ""
+
+#: inc/customizer.php:124
+msgid "Background Pattern"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Social"
+msgstr ""
+
+#: inc/defaults.php:22
+msgid ""
+"Proudly powered by <a href=\"http://wordpress.org/\" rel=\"generator"
+"\">WordPress</a>"
+msgstr ""
+
+#: inc/defaults.php:23
+msgid "Designed by <a href=\"http://themient.com\">Themient</a>"
+msgstr ""
+
+#: inc/defaults.php:55
+msgid "Facebook"
+msgstr ""
+
+#: inc/defaults.php:59
+msgid "Twitter"
+msgstr ""
+
+#: inc/defaults.php:63
+msgid "Google+"
+msgstr ""
+
+#: inc/defaults.php:67
+msgid "YouTube"
+msgstr ""
+
+#: inc/defaults.php:71
+msgid "Pinterest"
+msgstr ""
+
+#: inc/defaults.php:75
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/defaults.php:79
+msgid "RSS"
+msgstr ""
+
+#: inc/defaults.php:87
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/defaults.php:91
+msgid "Reddit"
+msgstr ""
+
+#: inc/defaults.php:95
+msgid "Instagram"
+msgstr ""
+
+#: inc/defaults.php:99
+msgid "Soundcloud"
+msgstr ""
+
+#: inc/defaults.php:103
+msgid "GitHub"
+msgstr ""
+
+#: inc/defaults.php:107
+msgid "Skype"
+msgstr ""
+
+#: inc/defaults.php:111
+msgid "Amazon"
+msgstr ""
+
+#: inc/defaults.php:115
+msgid "Vimeo"
+msgstr ""
+
+#: inc/defaults.php:119
+msgid "Behance"
+msgstr ""
+
+#: inc/defaults.php:123
+msgid "Vk"
+msgstr ""
+
+#: inc/defaults.php:127
+msgid "PayPal"
+msgstr ""
+
+#: inc/defaults.php:131
+msgid "Steam"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:33
+msgid "On"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:34
+msgid "Off"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:273
+#: inc/customizer/customizer-controls.php:278
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:274
+msgid "Change Image"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:275
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:276
+#: inc/customizer/customizer-controls.php:309
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:277
+msgid "No image selected"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:279
+msgid "Choose Image"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:289
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:290
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:291
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:292
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:303
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:304
+msgid "Tile"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:305
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:306
+msgid "Tile Vertically"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:310
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:311
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:314
+msgid "Left Top"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:315
+msgid "Left Center"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:316
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:317
+msgid "Right Top"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:318
+msgid "Right Center"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:319
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:320
+msgid "Center Top"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:321
+msgid "Center Center"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:322
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:325
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:326
+msgid "Scroll"
+msgstr ""
+
+#: inc/widgets/login.php:17
+msgid "Realistic: Login Widget"
+msgstr ""
+
+#: inc/widgets/login.php:18
+msgid "Display a login/register form on the sidebar."
+msgstr ""
+
+#: inc/widgets/login.php:36 inc/widgets/login.php:129
+msgid "Login"
+msgstr ""
+
+#: inc/widgets/login.php:46 inc/widgets/popularposts.php:42
+#: inc/widgets/recentposts.php:38 inc/widgets/socialicons.php:51
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/login.php:53
+msgid "Show Avatar"
+msgstr ""
+
+#: inc/widgets/login.php:60
+msgid "Show Logged in User name"
+msgstr ""
+
+#: inc/widgets/login.php:67
+msgid "Show Dashboard Link"
+msgstr ""
+
+#: inc/widgets/login.php:74
+msgid "Show Profile Link"
+msgstr ""
+
+#: inc/widgets/login.php:81
+msgid "Show Remember me"
+msgstr ""
+
+#: inc/widgets/login.php:88
+msgid "Show Register Link"
+msgstr ""
+
+#: inc/widgets/login.php:95
+msgid "Show Forgotten Password Link"
+msgstr ""
+
+#: inc/widgets/login.php:134
+msgid "Welcome"
+msgstr ""
+
+#: inc/widgets/login.php:152
+msgid "Enter both Username and Password"
+msgstr ""
+
+#: inc/widgets/login.php:155
+msgid "Username is not registered"
+msgstr ""
+
+#: inc/widgets/login.php:158
+msgid "Incorrect Password"
+msgstr ""
+
+#: inc/widgets/login.php:176
+msgid "Logged in as "
+msgstr ""
+
+#: inc/widgets/login.php:182
+msgid "Dashboard"
+msgstr ""
+
+#: inc/widgets/login.php:185
+msgid "Profile"
+msgstr ""
+
+#: inc/widgets/login.php:187
+msgid "Logout"
+msgstr ""
+
+#: inc/widgets/login.php:199
+msgid "Username"
+msgstr ""
+
+#: inc/widgets/login.php:200
+msgid "Password"
+msgstr ""
+
+#: inc/widgets/login.php:206
+msgid "Register"
+msgstr ""
+
+#: inc/widgets/login.php:210
+msgid "Forgot Password?"
+msgstr ""
+
+#: inc/widgets/login.php:242
+msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+msgstr ""
+
+#: inc/widgets/popularposts.php:17
+msgid "Realistic: Popular Posts"
+msgstr ""
+
+#: inc/widgets/popularposts.php:18
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr ""
+
+#: inc/widgets/popularposts.php:34
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/widgets/popularposts.php:47
+msgid "Popularity limit (days), 0 for No-limit"
+msgstr ""
+
+#: inc/widgets/popularposts.php:53 inc/widgets/recentposts.php:43
+msgid "Number of Posts to show"
+msgstr ""
+
+#: inc/widgets/popularposts.php:60 inc/widgets/recentposts.php:50
+msgid "Show Thumbnails"
+msgstr ""
+
+#: inc/widgets/popularposts.php:67 inc/widgets/recentposts.php:57
+msgid "Show post date"
+msgstr ""
+
+#: inc/widgets/popularposts.php:74 inc/widgets/recentposts.php:64
+msgid "Show comments number"
+msgstr ""
+
+#: inc/widgets/recentposts.php:17
+msgid "Realistic: Recent Posts"
+msgstr ""
+
+#: inc/widgets/recentposts.php:18
+msgid "Display the most recent posts from all categories."
+msgstr ""
+
+#: inc/widgets/recentposts.php:31 inc/widgets/recentposts.php:92
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widgets/socialicons.php:36
+msgid "Show social profile icons."
+msgstr ""
+
+#: inc/widgets/socialicons.php:42
+msgid "Realistic: Social Icons"
+msgstr ""
+
+#: inc/widgets/socialicons.php:53
+msgid "Open links in a new tab?"
+msgstr ""
+
+#: inc/widgets/socialicons.php:55
+msgid ""
+"Note: To define your social media URLs, go to \"Appearance > Customize > "
+"Social\"."
+msgstr ""
+
+#: template-parts/content-actions.php:20
+msgid "Edit"
+msgstr ""
+
+#: template-parts/content-actions.php:27
+msgid "Delete"
+msgstr ""
+
+#: template-parts/content-excerpt.php:21
+msgid "View article..."
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:32
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single-author.php:14
+msgid "About the author"
+msgstr ""
+
+#: template-parts/content-single-author.php:46
+msgid "View Posts"
+msgstr ""
+
+#: template-parts/content-single-links.php:15
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/content-single-links.php:17
+msgid "Next Post"
+msgstr ""

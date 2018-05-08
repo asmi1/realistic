@@ -1,0 +1,756 @@
+# Copyright (C) 2017 Themient.com
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Realistic 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 02:48+0100\n"
+"PO-Revision-Date: 2017-09-06 03:22+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#: 404.php:19
+msgid "Page  Not Found"
+msgstr "Page Introuvable"
+
+#: 404.php:20
+msgid ""
+"Sorry! That page doesn't seem to exist. You could return to the previous "
+"page."
+msgstr ""
+"Désolé! Cette page ne semble pas exister. Vous pouvez revenir à la page "
+"précédente."
+
+#: 404.php:22
+msgid "Go Back"
+msgstr "Retourner"
+
+#: archive.php:43 index.php:39 search.php:38
+msgid "&#8249; Previous"
+msgstr "Précédent"
+
+#: archive.php:44 index.php:40 search.php:39
+msgid "Next &#8250;"
+msgstr "Suivant"
+
+#: comments.php:20
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Cette publication est protégée par mot de passe. Entrez le mot de passe "
+"pour voir les commentaires."
+
+#: comments.php:29
+msgid "No Comments"
+msgstr "Aucuns Commentaires"
+
+#: comments.php:29
+msgid " One Comment"
+msgstr "Un Commentaire"
+
+#: comments.php:29
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#: comments.php:59
+msgid "Add a Comment"
+msgstr "Ajouter un Commentaire"
+
+#: comments.php:61
+msgid "Add Comment"
+msgstr "Ajouter un commentaire"
+
+#: comments.php:69
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:72 inc/defaults.php:80
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:75
+msgid "Website"
+msgstr "Site internet"
+
+#: functions.php:37
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions.php:38
+msgid "Mobile Menu"
+msgstr "Menu Mobile"
+
+#: functions.php:87
+msgid "Main Sidebar"
+msgstr "Sidebar principale"
+
+#: functions.php:209
+msgid "Author"
+msgstr "A Propos de l'Auteur"
+
+#: functions.php:217
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: functions.php:218
+msgid "Reply"
+msgstr "Répondre"
+
+#: functions.php:224
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente d’approbation"
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour: %s"
+
+#: searchform.php:12
+msgid "Search for"
+msgstr "Rechercher"
+
+#: searchform.php:14
+msgid "Search &#8230;"
+msgstr "Rechercher &#8230;"
+
+#: inc/common.php:20
+msgid "year"
+msgstr "année "
+
+#: inc/common.php:20
+msgid "years"
+msgstr "années "
+
+#: inc/common.php:21
+msgid "month"
+msgstr "mois "
+
+#: inc/common.php:21
+msgid "months"
+msgstr "mois "
+
+#: inc/common.php:22
+msgid "week"
+msgstr "semaine "
+
+#: inc/common.php:22
+msgid "weeks"
+msgstr "semaines "
+
+#: inc/common.php:23
+msgid "day"
+msgstr "jour "
+
+#: inc/common.php:23
+msgid "days"
+msgstr "jours "
+
+#: inc/common.php:24
+msgid "hour"
+msgstr "heure "
+
+#: inc/common.php:24
+msgid "hours"
+msgstr "heures "
+
+#: inc/common.php:25
+msgid "minute"
+msgstr "minute "
+
+#: inc/common.php:25
+msgid "minutes"
+msgstr "minutes "
+
+#: inc/common.php:26
+msgid "second"
+msgstr "seconde "
+
+#: inc/common.php:26 inc/common.php:59
+msgid "seconds"
+msgstr "secondes "
+
+#: inc/common.php:43
+msgid "sometime"
+msgstr ""
+
+#: inc/common.php:62
+msgid " ago"
+msgstr ""
+
+#: inc/common.php:88
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/common.php:107
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/common.php:132
+msgid ", "
+msgstr ", "
+
+#: inc/common.php:134
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/common.php:238
+msgid "/"
+msgstr "/"
+
+#: inc/common.php:244
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/common.php:316
+msgid "Add Menu"
+msgstr "Ajouter un Menu"
+
+#: inc/common.php:318
+msgid "Go to Appearance => Menus and assign a Menu to this location."
+msgstr "Allez dans apparence => Menus et assigner un Menu à cet emplacement."
+
+#: inc/customizer.php:28
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/customizer.php:31
+msgid "Logo Image"
+msgstr "Logo"
+
+#: inc/customizer.php:35
+msgid "Footer"
+msgstr "Bas de Page"
+
+#: inc/customizer.php:38
+msgid "Footer Text"
+msgstr "Texte bas de page"
+
+#: inc/customizer.php:42
+msgid "Archives"
+msgstr "Archives"
+
+#: inc/customizer.php:45 inc/customizer.php:58
+msgid "Post Meta"
+msgstr "Meta de l'Article"
+
+#: inc/customizer.php:48
+msgid "Excerpt Length"
+msgstr "Longueur de l'Extrait"
+
+#: inc/customizer.php:48
+msgid ""
+"Excerpt length (in Words) for Homepage & archive pages. Min is 0, max is "
+"500. Set to 0 to disable."
+msgstr ""
+"Longueur d'extrait (en mots) pour la page d'accueil et les pages "
+"d'archives. Min est 0, maxi est 500. Définir 0 pour désactiver."
+
+#: inc/customizer.php:52
+msgid "Articles"
+msgstr "Articles"
+
+#: inc/customizer.php:55
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: inc/customizer.php:61 template-parts/content-single-related.php:54
+msgid "Related Posts"
+msgstr "Articles Similaires"
+
+#: inc/customizer.php:64
+msgid "Related Posts Number"
+msgstr "Nombre des Articles Similaires"
+
+#: inc/customizer.php:67
+msgid "Related Posts Query"
+msgstr "Selon"
+
+#: inc/customizer.php:68
+msgid "Tags"
+msgstr "Mots clés"
+
+#: inc/customizer.php:69
+msgid "Categories"
+msgstr "Catégories"
+
+#: inc/customizer.php:73
+msgid "Next/Previous Links"
+msgstr "Liens Suivant/Précédent"
+
+#: inc/customizer.php:76
+msgid "Author Box"
+msgstr "Biographie de l'Auteur"
+
+#: inc/customizer.php:80
+msgid "Design"
+msgstr "Design"
+
+#: inc/customizer.php:83
+msgid "Display"
+msgstr "Affichage"
+
+#: inc/customizer.php:89
+msgid "Sidebar Settings"
+msgstr "Réglages de Sidebars"
+
+#: inc/customizer.php:96
+msgid "Color Scheme"
+msgstr "Schéma de Couleur"
+
+#: inc/customizer.php:106
+msgid "Background Color"
+msgstr "Couleur d'Arrière-plan"
+
+#: inc/customizer.php:108 inc/customizer.php:159
+msgid "Background Image"
+msgstr "Image d'Arrière-plan"
+
+#: inc/customizer.php:109
+msgid "None"
+msgstr "Rien"
+
+#: inc/customizer.php:110
+msgid "Pattern"
+msgstr "Motif"
+
+#: inc/customizer.php:111
+msgid "Custom Image"
+msgstr "Image Personnalisée"
+
+#: inc/customizer.php:115
+msgid "Background Pattern"
+msgstr "Motif d'Arrière-plan"
+
+#: inc/defaults.php:19
+msgid ""
+"Proudly powered by <a href=\"http://wordpress.org/\" rel=\"generator"
+"\">WordPress</a>"
+msgstr ""
+"Fièrement propulsé par <a href=\"http://wordpress.org/\" rel=\"generator"
+"\">WordPress</a>"
+
+#: inc/defaults.php:20
+msgid "Designed by <a href=\"http://themient.com\">Themient</a>"
+msgstr "Développé par <a href=\"http://themient.com\">Themient</a>"
+
+#: inc/defaults.php:52
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/defaults.php:56
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/defaults.php:60
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/defaults.php:64
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/defaults.php:68
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/defaults.php:72
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/defaults.php:76
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/defaults.php:84
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: inc/defaults.php:88
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/defaults.php:92
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/defaults.php:96
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/defaults.php:100
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/defaults.php:104
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/defaults.php:108
+msgid "Amazon"
+msgstr "Amazon"
+
+#: inc/defaults.php:112
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/defaults.php:116
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/defaults.php:120
+msgid "Vk"
+msgstr "Vk"
+
+#: inc/defaults.php:124
+msgid "PayPal"
+msgstr "PayPal"
+
+#: inc/defaults.php:128
+msgid "Steam"
+msgstr "Steam"
+
+#: inc/customizer/customizer-controls.php:33
+msgid "On"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:34
+msgid "Off"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:273
+#: inc/customizer/customizer-controls.php:278
+msgid "Select Image"
+msgstr "Sélectionner un image"
+
+#: inc/customizer/customizer-controls.php:274
+msgid "Change Image"
+msgstr "Changer l'image"
+
+#: inc/customizer/customizer-controls.php:275
+msgid "Remove"
+msgstr "Retirer"
+
+#: inc/customizer/customizer-controls.php:276
+#: inc/customizer/customizer-controls.php:309
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/customizer/customizer-controls.php:277
+msgid "No image selected"
+msgstr "Aucune image sélectionnée"
+
+#: inc/customizer/customizer-controls.php:279
+msgid "Choose Image"
+msgstr "Sélectionner un image"
+
+#: inc/customizer/customizer-controls.php:289
+msgid "Background Repeat"
+msgstr "Répétition d'arrière-plan"
+
+#: inc/customizer/customizer-controls.php:290
+msgid "Background Size"
+msgstr "Taille d'arrière-plan"
+
+#: inc/customizer/customizer-controls.php:291
+msgid "Background Position"
+msgstr "Position d'arrière-plan"
+
+#: inc/customizer/customizer-controls.php:292
+msgid "Background Attachment"
+msgstr "Attachement d'arrière-plan"
+
+#: inc/customizer/customizer-controls.php:303
+msgid "No Repeat"
+msgstr "Pas de Répétition"
+
+#: inc/customizer/customizer-controls.php:304
+msgid "Tile"
+msgstr "Répéter"
+
+#: inc/customizer/customizer-controls.php:305
+msgid "Tile Horizontally"
+msgstr "Répéter Horizontalement"
+
+#: inc/customizer/customizer-controls.php:306
+msgid "Tile Vertically"
+msgstr "Répéter Verticalement"
+
+#: inc/customizer/customizer-controls.php:310
+msgid "Cover"
+msgstr "Couvrir"
+
+#: inc/customizer/customizer-controls.php:311
+msgid "Contain"
+msgstr "Contenir"
+
+#: inc/customizer/customizer-controls.php:314
+msgid "Left Top"
+msgstr "En haut à gauche"
+
+#: inc/customizer/customizer-controls.php:315
+msgid "Left Center"
+msgstr "Centre gauche"
+
+#: inc/customizer/customizer-controls.php:316
+msgid "Left Bottom"
+msgstr "En bas à gauche"
+
+#: inc/customizer/customizer-controls.php:317
+msgid "Right Top"
+msgstr "En haut à droite"
+
+#: inc/customizer/customizer-controls.php:318
+msgid "Right Center"
+msgstr "Centre-droit"
+
+#: inc/customizer/customizer-controls.php:319
+msgid "Right Bottom"
+msgstr "En bas à droite"
+
+#: inc/customizer/customizer-controls.php:320
+msgid "Center Top"
+msgstr "Centre en haut"
+
+#: inc/customizer/customizer-controls.php:321
+msgid "Center Center"
+msgstr "Centré"
+
+#: inc/customizer/customizer-controls.php:322
+msgid "Center Bottom"
+msgstr "Centre en bas"
+
+#: inc/customizer/customizer-controls.php:325
+msgid "Fixed"
+msgstr "Fixé"
+
+#: inc/customizer/customizer-controls.php:326
+msgid "Scroll"
+msgstr "Défiler"
+
+#: inc/widgets/login.php:17
+msgid "Realistic: Login Widget"
+msgstr "Realistic: Widget de Connexion"
+
+#: inc/widgets/login.php:18
+msgid "Display a login/register form on the sidebar."
+msgstr "Afficher le Formulaire de connexion"
+
+#: inc/widgets/login.php:35 inc/widgets/login.php:128
+msgid "Login"
+msgstr "Connexion"
+
+#: inc/widgets/login.php:45 inc/widgets/popularposts.php:42
+#: inc/widgets/recentposts.php:38 inc/widgets/socialicons.php:51
+msgid "Title:"
+msgstr "Titre:"
+
+#: inc/widgets/login.php:52
+msgid "Show Avatar"
+msgstr "Afficher Avatar"
+
+#: inc/widgets/login.php:59
+msgid "Show Logged in User name"
+msgstr "Afficher Nom d'utilisateur"
+
+#: inc/widgets/login.php:66
+msgid "Show Dashboard Link"
+msgstr "Afficher Tableau de bord"
+
+#: inc/widgets/login.php:73
+msgid "Show Profile Link"
+msgstr "Afficher les icônes des profils sociaux."
+
+#: inc/widgets/login.php:80
+msgid "Show Remember me"
+msgstr "Afficher « Se souvenir de moi »"
+
+#: inc/widgets/login.php:87
+msgid "Show Register Link"
+msgstr "Afficher le lien d'inscription"
+
+#: inc/widgets/login.php:94
+msgid "Show Forgotten Password Link"
+msgstr "Afficher « Mot de passe oublié? »"
+
+#: inc/widgets/login.php:133
+msgid "Welcome"
+msgstr "Bienvenue"
+
+#: inc/widgets/login.php:151
+msgid "Enter both Username and Password"
+msgstr "Entrez  Nom d'utilisateur et mot de passe"
+
+#: inc/widgets/login.php:154
+msgid "Username is not registered"
+msgstr "Nom d'utilisateur n'est pas enregistré"
+
+#: inc/widgets/login.php:157
+msgid "Incorrect Password"
+msgstr "Le mot de passe est incorrect"
+
+#: inc/widgets/login.php:175
+msgid "Logged in as "
+msgstr "Connecté en tant que"
+
+#: inc/widgets/login.php:181
+msgid "Dashboard"
+msgstr "Tableau de Bord"
+
+#: inc/widgets/login.php:184
+msgid "Profile"
+msgstr "Profil"
+
+#: inc/widgets/login.php:186
+msgid "Logout"
+msgstr "Déconnexion"
+
+#: inc/widgets/login.php:197
+msgid "Username"
+msgstr "Identifiant"
+
+#: inc/widgets/login.php:198
+msgid "Password"
+msgstr "Mot de passe"
+
+#: inc/widgets/login.php:204
+msgid "Register"
+msgstr "S’inscrire"
+
+#: inc/widgets/login.php:206
+msgid "Forgot Password?"
+msgstr "Afficher « Mot de passe oublié? »"
+
+#: inc/widgets/login.php:237
+msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+msgstr ""
+"<strong>Erreur:</strong> nom d'utilisateur incorrect ou mot de passe "
+"incorrect."
+
+#: inc/widgets/popularposts.php:17
+msgid "Realistic: Popular Posts"
+msgstr "Realistic: Articles Populaires"
+
+#: inc/widgets/popularposts.php:18
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr "Affiche les articles les plus populaires avec des vignettes."
+
+#: inc/widgets/popularposts.php:34
+msgid "Popular Posts"
+msgstr "Articles Populaires"
+
+#: inc/widgets/popularposts.php:47
+msgid "Popularity limit (days), 0 for No-limit"
+msgstr "Limite de popularité (en jours), 0 pour pas de limite"
+
+#: inc/widgets/popularposts.php:53 inc/widgets/recentposts.php:43
+msgid "Number of Posts to show"
+msgstr "Nombre d'Articles à Afficher"
+
+#: inc/widgets/popularposts.php:60 inc/widgets/recentposts.php:50
+msgid "Show Thumbnails"
+msgstr "Afficher les Vignettes"
+
+#: inc/widgets/popularposts.php:67 inc/widgets/recentposts.php:57
+msgid "Show post date"
+msgstr "Afficher la Date de l'Article"
+
+#: inc/widgets/popularposts.php:74 inc/widgets/recentposts.php:64
+msgid "Show comments number"
+msgstr "Afficher nombre des commentaires"
+
+#: inc/widgets/recentposts.php:17
+msgid "Realistic: Recent Posts"
+msgstr "Realistic: Articles Récents"
+
+#: inc/widgets/recentposts.php:18
+msgid "Display the most recent posts from all categories."
+msgstr "Affiche les articles les plus récents de toutes les catégories."
+
+#: inc/widgets/recentposts.php:31 inc/widgets/recentposts.php:92
+msgid "Recent Posts"
+msgstr "Articles Récents"
+
+#: inc/widgets/socialicons.php:36
+msgid "Show social profile icons."
+msgstr "Afficher les icônes des profils sociaux."
+
+#: inc/widgets/socialicons.php:42
+msgid "Realistic: Social Icons"
+msgstr "Realistic:  Icônes des Profils Sociaux"
+
+#: inc/widgets/socialicons.php:53
+msgid "Open links in a new tab?"
+msgstr "Ouvrir les liens dans un nouvel onglet?"
+
+#: template-parts/content-actions.php:20
+msgid "Edit"
+msgstr "Modifier"
+
+#: template-parts/content-actions.php:25
+msgid "Delete"
+msgstr "Effacer"
+
+#: template-parts/content-excerpt.php:21
+msgid "View article..."
+msgstr "Voir l'article ..."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien n’a été trouvé"
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre premier article ? <a href=\"%1$s\">Commencez ici</a>."
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à vos termes de recherche. Veuillez "
+"essayer de nouveau avec d&rsquo;autres mots-clés."
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semblerait que nous ne puissions pas trouver ce que vous recherchez. "
+"Peut-être pourriez-vous lancer un nouvelle recherche."
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:28
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-single-author.php:14
+msgid "About the author"
+msgstr "A Propos de l'Auteur"
+
+#: template-parts/content-single-author.php:46
+msgid "View Posts"
+msgstr "Voir tous les articles"
+
+#: template-parts/content-single-links.php:15
+msgid "Previous Post"
+msgstr "Article Précédent"
+
+#: template-parts/content-single-links.php:17
+msgid "Next Post"
+msgstr "Article Suivant"

@@ -1,0 +1,190 @@
+.image .ui-button {
+    border: 0;
+    background-color: transparent !important;
+    box-shadow: none;
+    height: initial;
+    padding: 0;
+}
+#input_background_pattern {
+    overflow: hidden;
+    overflow-y: scroll;
+    max-height: 350px;
+}
+#customize-control-background_pattern img {
+    width: 65px;
+}
+.description.customize-control-description {
+    font-weight: normal;
+    font-style: normal;
+}
+.customize-control-checkbox label, .customize-control-checkbox input {
+    margin: 0 !important;
+}
+#customize-controls img {
+    display: block;
+}
+#customize-controls .ui-button-text {
+    position: relative;
+    display: inline-block;
+}
+#customize-controls .ui-button-text:after {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border: 2px solid;
+    border-color: transparent;
+    background: transparent;
+}
+#customize-controls .ui-state-active .ui-button-text:after {
+    border-color: #59d;
+}
+.image-select {
+    display: none !important;
+}
+
+/* Switch Styles */	
+.switcher-toggle {
+    display: none !important;
+    visibility: none !important; 
+}
+.switcher-button,
+.switcher-content,
+.switcher {
+    -webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+    transition: all 500ms ease-in-out; 
+}
+.switcher-viewport {
+    /* Uncomment the border-radius and border declaration to see the webkit bug in Chrome or Safari */
+    /* border-radius: 50px;  border: 5px solid green; */
+    -moz-border-radius: 12px;
+    display: block;
+    height: 25px;
+    overflow: hidden;
+    width: 75px;
+    position: relative;
+    margin: 15px auto 0;
+    cursor: pointer; 
+}
+.switcher {
+    height: 100%;
+    position: relative;
+    width: 200%; 
+}
+.switcher-button {
+    -moz-border-radius: 12px;
+    background-color: #f2f2f2;
+    background-size: 100%;
+    background-image: -webkit-gradient(radial, 50%, 0, 50%, 86, color-stop(0%, #f2f2f2), color-stop(32%, #eeeeee), color-stop(61%, #e2e2e2), color-stop(86%, #dddddd));
+    background-image: -webkit-radial-gradient(center, ellipse cover, #f2f2f2 0%, #eeeeee 32%, #e2e2e2 61%, #dddddd 86%);
+    background-image: -moz-radial-gradient(center, ellipse cover, #f2f2f2 0%, #eeeeee 32%, #e2e2e2 61%, #dddddd 86%);
+    background-image: -o-radial-gradient(center, ellipse cover, #f2f2f2 0%, #eeeeee 32%, #e2e2e2 61%, #dddddd 86%);
+    background-image: -ms-radial-gradient(center, ellipse cover, #f2f2f2 0%, #eeeeee 32%, #e2e2e2 61%, #dddddd 86%);
+    background-image: radial-gradient(center, ellipse cover, #f2f2f2 0%, #eeeeee 32%, #e2e2e2 61%, #dddddd 86%);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-box-shadow: white 0 3px 2px inset, rgba(0, 0, 0, 0.4) 0 -1px 2px inset, rgba(0, 0, 0, 0.2) 0 0 1px;
+    -moz-box-shadow: white 0 3px 2px inset, rgba(0, 0, 0, 0.4) 0 -1px 2px inset, rgba(0, 0, 0, 0.2) 0 0 1px;
+    box-shadow: white 0 3px 2px inset, rgba(0, 0, 0, 0.4) 0 -1px 2px inset, rgba(0, 0, 0, 0.2) 0 0 1px;
+    position: absolute;
+    display: block;
+    top: 0;
+    height: 25px;
+    width: 25px;
+    cursor: pointer;
+}
+.switcher-content {
+    -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 0 5px inset;
+    -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 0 5px inset;
+    box-shadow: rgba(0, 0, 0, 0.2) 0 0 5px inset;
+    background: rgba(157, 38, 29, 0.5);
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+    height: 100%;
+    width: 62px;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    top: 5px;
+}
+.switcher-content span {
+    text-shadow: rgba(0, 0, 0, 0.1) 1px 1px 2px;
+    height: 100%;
+    line-height: 25px;
+    margin: 0 10px;
+    float: left;
+    color: #FFF;
+}
+.switcher .left {
+    background-color: #59d;
+    border-color: rgb(0, 120, 241);
+}
+.switcher .right {
+    background-color: #d55;
+    border-color: rgb(241, 0, 0);
+}
+.switcher .right span {
+    float: right; 
+}
+.switcher-toggle + .switcher-viewport > .switcher {
+    left: 0; 
+}
+.switcher-toggle + .switcher-viewport .switcher-button {
+    left: 50px; 
+}
+.switcher-toggle + .switcher-viewport .switcher-content {
+    width: 62px; 
+}
+.switcher-toggle + .switcher-viewport .left {
+    margin-left: 0; 
+}
+.switcher-toggle:not(:checked) + .switcher-viewport > .switcher {
+    left: -100%; 
+}
+.switcher-toggle:not(:checked) + .switcher-viewport .switcher-button {
+    left: 75px; 
+}
+.switcher-toggle:not(:checked) + .switcher-viewport .left {
+    margin-left: 25px; 
+}
+.hideme{
+	display: none !important;
+}
+.customize-control-radio-button .radio-button {
+    display: table;
+}
+.customize-control-radio-button input[type="radio"] {
+    display:none; 
+}
+.customize-control-radio-button label {
+    display: table-cell;
+    color: rgba(0,0,0,.8);
+    font-size: 11px;
+    font-weight: 700;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #EFEFEF;
+    text-decoration: none;
+    -webkit-box-shadow: 0 1px 0 #ccc;
+    -moz-box-shadow: 0 1px 0 #ccc;
+    box-shadow: 0 1px 0 #ccc;
+    border-color: #ccc;
+    border: 1px solid #ccc;
+}
+.customize-control-radio-button label:hover {
+    cursor: pointer;
+}
+.customize-control-radio-button input[type="radio"]:checked + label { 
+    background-color: #59d;
+    color: #FFF;
+    border-color: rgb(0, 120, 241);
+}

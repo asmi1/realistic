@@ -1,0 +1,751 @@
+# Copyright (C) 2017 Themient.com
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Realistic 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-06 03:24+0100\n"
+"PO-Revision-Date: 2017-09-06 03:43+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl_NL\n"
+
+#: 404.php:17
+msgid "404"
+msgstr "404"
+
+#: 404.php:19
+msgid "Page  Not Found"
+msgstr "Pagina Niet Gevonden"
+
+#: 404.php:20
+msgid ""
+"Sorry! That page doesn't seem to exist. You could return to the previous "
+"page."
+msgstr "Oeps! Deze pagina kon niet worden gevonden."
+
+#: 404.php:22
+msgid "Go Back"
+msgstr "Teruggaan"
+
+#: archive.php:43 index.php:39 search.php:38
+msgid "&#8249; Previous"
+msgstr "&#8249; Voorgaand"
+
+#: archive.php:44 index.php:40 search.php:39
+msgid "Next &#8250;"
+msgstr "Volgende &#8250;"
+
+#: comments.php:20
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+"Deze post is beveiligd met een wachtwoord. Voer het wachtwoord in om de "
+"post te kunnen bekijken."
+
+#: comments.php:29
+msgid "No Comments"
+msgstr "Nog geen reacties"
+
+#: comments.php:29
+msgid " One Comment"
+msgstr "Één reactie"
+
+#: comments.php:29
+msgid "% Comments"
+msgstr "% reacties"
+
+#: comments.php:59
+msgid "Add a Comment"
+msgstr "Voeg reactie toe"
+
+#: comments.php:61
+msgid "Add Comment"
+msgstr "Voeg reactie toe"
+
+#: comments.php:69
+msgid "Name"
+msgstr "Naam"
+
+#: comments.php:72 inc/defaults.php:80
+msgid "Email"
+msgstr "E-mail"
+
+#: comments.php:75
+msgid "Website"
+msgstr "Website"
+
+#: functions.php:37
+msgid "Primary Menu"
+msgstr "Primair menu"
+
+#: functions.php:38
+msgid "Mobile Menu"
+msgstr "Mobiel menu"
+
+#: functions.php:87
+msgid "Main Sidebar"
+msgstr "Hoofdzijbalk"
+
+#: functions.php:209
+msgid "Author"
+msgstr ""
+
+#: functions.php:217
+msgid "(Edit)"
+msgstr "(Bewerken)"
+
+#: functions.php:218
+msgid "Reply"
+msgstr "Reageer"
+
+#: functions.php:224
+msgid "Your comment is awaiting moderation."
+msgstr "Je reactie wordt beoordeeld."
+
+#: search.php:20
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Zoekresultaten voor: %s"
+
+#: searchform.php:12
+msgid "Search for"
+msgstr "Zoek op"
+
+#: searchform.php:14
+msgid "Search &#8230;"
+msgstr "Zoeken &#8230;"
+
+#: inc/common.php:20
+msgid "year"
+msgstr "jaar"
+
+#: inc/common.php:20
+msgid "years"
+msgstr "jaren"
+
+#: inc/common.php:21
+msgid "month"
+msgstr "maand"
+
+#: inc/common.php:21
+msgid "months"
+msgstr "maanden"
+
+#: inc/common.php:22
+msgid "week"
+msgstr "week"
+
+#: inc/common.php:22
+msgid "weeks"
+msgstr "weken"
+
+#: inc/common.php:23
+msgid "day"
+msgstr "dag"
+
+#: inc/common.php:23
+msgid "days"
+msgstr "dagen"
+
+#: inc/common.php:24
+msgid "hour"
+msgstr "uur"
+
+#: inc/common.php:24
+msgid "hours"
+msgstr "uren"
+
+#: inc/common.php:25
+msgid "minute"
+msgstr "minuut"
+
+#: inc/common.php:25
+msgid "minutes"
+msgstr "minuten"
+
+#: inc/common.php:26
+msgid "second"
+msgstr "seconde"
+
+#: inc/common.php:26 inc/common.php:59
+msgid "seconds"
+msgstr "seconden"
+
+#: inc/common.php:43
+msgid "sometime"
+msgstr "vroegere"
+
+#: inc/common.php:62
+msgid " ago"
+msgstr " geleden"
+
+#: inc/common.php:88
+#, php-format
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/common.php:107
+#, php-format
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/common.php:132
+msgid ", "
+msgstr ", "
+
+#: inc/common.php:134
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: inc/common.php:238
+msgid "/"
+msgstr "/"
+
+#: inc/common.php:244
+msgid "Home"
+msgstr "Home"
+
+#: inc/common.php:316
+msgid "Add Menu"
+msgstr "Menu toevoegen"
+
+#: inc/common.php:318
+msgid "Go to Appearance => Menus and assign a Menu to this location."
+msgstr "Ga naar Weergave => Menu's en wijs een menu toe aan deze locatie."
+
+#: inc/customizer.php:28
+msgid "Header"
+msgstr "Toon header"
+
+#: inc/customizer.php:31
+msgid "Logo Image"
+msgstr "Logo afbeelding"
+
+#: inc/customizer.php:35
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Footer Text"
+msgstr "Copyright Tekst"
+
+#: inc/customizer.php:42
+msgid "Archives"
+msgstr "Archieven"
+
+#: inc/customizer.php:45 inc/customizer.php:58
+msgid "Post Meta"
+msgstr "Post Meta"
+
+#: inc/customizer.php:48
+msgid "Excerpt Length"
+msgstr "Uittreksel lengte"
+
+#: inc/customizer.php:48
+msgid ""
+"Excerpt length (in Words) for Homepage & archive pages. Min is 0, max is "
+"500. Set to 0 to disable."
+msgstr ""
+
+#: inc/customizer.php:52
+msgid "Articles"
+msgstr "Artikelen"
+
+#: inc/customizer.php:55
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:61 template-parts/content-single-related.php:54
+msgid "Related Posts"
+msgstr "Gerelateerde posts"
+
+#: inc/customizer.php:64
+msgid "Related Posts Number"
+msgstr "Aantal gerelateerde posts"
+
+#: inc/customizer.php:67
+msgid "Related Posts Query"
+msgstr "Gerelateerde posts query"
+
+#: inc/customizer.php:68
+msgid "Tags"
+msgstr "Tags"
+
+#: inc/customizer.php:69
+msgid "Categories"
+msgstr "Categorieën"
+
+#: inc/customizer.php:73
+msgid "Next/Previous Links"
+msgstr "Vorige pagina"
+
+#: inc/customizer.php:76
+msgid "Author Box"
+msgstr "Auteur Box"
+
+#: inc/customizer.php:80
+msgid "Design"
+msgstr "Ontwerp"
+
+#: inc/customizer.php:83
+msgid "Display"
+msgstr "Opmaak"
+
+#: inc/customizer.php:89
+msgid "Sidebar Settings"
+msgstr "Sidebar instellingen"
+
+#: inc/customizer.php:96
+msgid "Color Scheme"
+msgstr "Kleurenschema"
+
+#: inc/customizer.php:106
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: inc/customizer.php:108 inc/customizer.php:159
+msgid "Background Image"
+msgstr "Aangepaste achtergrondafbeelding"
+
+#: inc/customizer.php:109
+msgid "None"
+msgstr "Geen"
+
+#: inc/customizer.php:110
+msgid "Pattern"
+msgstr "Patroon"
+
+#: inc/customizer.php:111
+msgid "Custom Image"
+msgstr "Aangepaste afbeelding"
+
+#: inc/customizer.php:115
+msgid "Background Pattern"
+msgstr "Achtergrond Patroon"
+
+#: inc/defaults.php:19
+msgid ""
+"Proudly powered by <a href=\"http://wordpress.org/\" rel=\"generator"
+"\">WordPress</a>"
+msgstr ""
+"Trots aangedreven door <a href=\"http://wordpress.org/\" rel=\"generator"
+"\">WordPress</a>"
+
+#: inc/defaults.php:20
+msgid "Designed by <a href=\"http://themient.com\">Themient</a>"
+msgstr "Ontworpen door <a href=\"http://themient.com\">Themient</a>"
+
+#: inc/defaults.php:52
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/defaults.php:56
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/defaults.php:60
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/defaults.php:64
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/defaults.php:68
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: inc/defaults.php:72
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/defaults.php:76
+msgid "RSS"
+msgstr "RSS"
+
+#: inc/defaults.php:84
+msgid "StumbleUpon"
+msgstr "StumbleUpon"
+
+#: inc/defaults.php:88
+msgid "Reddit"
+msgstr "Reddit"
+
+#: inc/defaults.php:92
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/defaults.php:96
+msgid "Soundcloud"
+msgstr "Soundcloud"
+
+#: inc/defaults.php:100
+msgid "GitHub"
+msgstr "GitHub"
+
+#: inc/defaults.php:104
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/defaults.php:108
+msgid "Amazon"
+msgstr "Amazon"
+
+#: inc/defaults.php:112
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/defaults.php:116
+msgid "Behance"
+msgstr "Behance"
+
+#: inc/defaults.php:120
+msgid "Vk"
+msgstr "Vk"
+
+#: inc/defaults.php:124
+msgid "PayPal"
+msgstr "PayPal"
+
+#: inc/defaults.php:128
+msgid "Steam"
+msgstr "Steam"
+
+#: inc/customizer/customizer-controls.php:33
+msgid "On"
+msgstr "Op"
+
+#: inc/customizer/customizer-controls.php:34
+msgid "Off"
+msgstr "Uit"
+
+#: inc/customizer/customizer-controls.php:273
+#: inc/customizer/customizer-controls.php:278
+msgid "Select Image"
+msgstr "Selecteer afbeelding"
+
+#: inc/customizer/customizer-controls.php:274
+msgid "Change Image"
+msgstr "Afbeelding wijzigen"
+
+#: inc/customizer/customizer-controls.php:275
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: inc/customizer/customizer-controls.php:276
+#: inc/customizer/customizer-controls.php:309
+msgid "Default"
+msgstr "Standaard"
+
+#: inc/customizer/customizer-controls.php:277
+msgid "No image selected"
+msgstr "Geen afbeelding geselecteerd"
+
+#: inc/customizer/customizer-controls.php:279
+msgid "Choose Image"
+msgstr "Kies afbeelding"
+
+#: inc/customizer/customizer-controls.php:289
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:290
+msgid "Background Size"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:291
+msgid "Background Position"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:292
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:303
+msgid "No Repeat"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:304
+msgid "Tile"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:305
+msgid "Tile Horizontally"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:306
+msgid "Tile Vertically"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:310
+msgid "Cover"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:311
+msgid "Contain"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:314
+msgid "Left Top"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:315
+msgid "Left Center"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:316
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:317
+msgid "Right Top"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:318
+msgid "Right Center"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:319
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:320
+msgid "Center Top"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:321
+msgid "Center Center"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:322
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:325
+msgid "Fixed"
+msgstr ""
+
+#: inc/customizer/customizer-controls.php:326
+msgid "Scroll"
+msgstr ""
+
+#: inc/widgets/login.php:17
+msgid "Realistic: Login Widget"
+msgstr "Realistic: Login Widget"
+
+#: inc/widgets/login.php:18
+msgid "Display a login/register form on the sidebar."
+msgstr "Toon een login/registratie-formulier in de zijbalk."
+
+#: inc/widgets/login.php:35 inc/widgets/login.php:128
+msgid "Login"
+msgstr "Log in"
+
+#: inc/widgets/login.php:45 inc/widgets/popularposts.php:42
+#: inc/widgets/recentposts.php:38 inc/widgets/socialicons.php:51
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets/login.php:52
+msgid "Show Avatar"
+msgstr "Geef avatar weer"
+
+#: inc/widgets/login.php:59
+msgid "Show Logged in User name"
+msgstr "Toon aangemeld Gebruikersnaam"
+
+#: inc/widgets/login.php:66
+msgid "Show Dashboard Link"
+msgstr "Dashboard-link weergeven"
+
+#: inc/widgets/login.php:73
+msgid "Show Profile Link"
+msgstr "Profiel-link weergeven"
+
+#: inc/widgets/login.php:80
+msgid "Show Remember me"
+msgstr "Onthouden weergeven"
+
+#: inc/widgets/login.php:87
+msgid "Show Register Link"
+msgstr "Registratielink weergeven"
+
+#: inc/widgets/login.php:94
+msgid "Show Forgotten Password Link"
+msgstr "Wachtwoord vergeten link weergeven"
+
+#: inc/widgets/login.php:133
+msgid "Welcome"
+msgstr "Welkom"
+
+#: inc/widgets/login.php:151
+msgid "Enter both Username and Password"
+msgstr "Voer zowel gebruikersnaam als wachtwoord in"
+
+#: inc/widgets/login.php:154
+msgid "Username is not registered"
+msgstr "Gebruikersnaam is niet geregistreerd"
+
+#: inc/widgets/login.php:157
+msgid "Incorrect Password"
+msgstr "Onjuist wachtwoord"
+
+#: inc/widgets/login.php:175
+msgid "Logged in as "
+msgstr "Ingelogd als "
+
+#: inc/widgets/login.php:181
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: inc/widgets/login.php:184
+msgid "Profile"
+msgstr "Profiel"
+
+#: inc/widgets/login.php:186
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: inc/widgets/login.php:197
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: inc/widgets/login.php:198
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: inc/widgets/login.php:204
+msgid "Register"
+msgstr "Registreer"
+
+#: inc/widgets/login.php:206
+msgid "Forgot Password?"
+msgstr "Wachtwoord vergeten?"
+
+#: inc/widgets/login.php:237
+msgid "<strong>ERROR</strong>: Invalid username or incorrect password."
+msgstr ""
+"<strong>FOUT:</strong>: Ongeldige gebruikersnaam of onjuist wachtwoord."
+
+#: inc/widgets/popularposts.php:17
+msgid "Realistic: Popular Posts"
+msgstr "Realistic: Populaire posts"
+
+#: inc/widgets/popularposts.php:18
+msgid "Displays most Popular Posts with Thumbnail."
+msgstr "Geeft de meest populaire posts weer met thumbnail."
+
+#: inc/widgets/popularposts.php:34
+msgid "Popular Posts"
+msgstr "Populaire posts"
+
+#: inc/widgets/popularposts.php:47
+msgid "Popularity limit (days), 0 for No-limit"
+msgstr "Populair limiet (dagen), 0 voor geen limiet"
+
+#: inc/widgets/popularposts.php:53 inc/widgets/recentposts.php:43
+msgid "Number of Posts to show"
+msgstr "Aantal weer te geven berichten"
+
+#: inc/widgets/popularposts.php:60 inc/widgets/recentposts.php:50
+msgid "Show Thumbnails"
+msgstr "Toon thumbnails"
+
+#: inc/widgets/popularposts.php:67 inc/widgets/recentposts.php:57
+msgid "Show post date"
+msgstr "Datum van post weergeven"
+
+#: inc/widgets/popularposts.php:74 inc/widgets/recentposts.php:64
+msgid "Show comments number"
+msgstr "Toon commentaar nummer"
+
+#: inc/widgets/recentposts.php:17
+msgid "Realistic: Recent Posts"
+msgstr "Realistic: Recente Posts"
+
+#: inc/widgets/recentposts.php:18
+msgid "Display the most recent posts from all categories."
+msgstr "Geeft de meest recente posts uit alle categorieën weer."
+
+#: inc/widgets/recentposts.php:31 inc/widgets/recentposts.php:92
+msgid "Recent Posts"
+msgstr "Recente posts"
+
+#: inc/widgets/socialicons.php:36
+msgid "Show social profile icons."
+msgstr "Toon social profiel iconen."
+
+#: inc/widgets/socialicons.php:42
+msgid "Realistic: Social Icons"
+msgstr "Realistic: Sociale Iconen"
+
+#: inc/widgets/socialicons.php:53
+msgid "Open links in a new tab?"
+msgstr "Links in een nieuw tabblad openen?"
+
+#: template-parts/content-actions.php:20
+msgid "Edit"
+msgstr "Bewerken"
+
+#: template-parts/content-actions.php:25
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: template-parts/content-excerpt.php:21
+msgid "View article..."
+msgstr "Lees artikel..."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Niets Gevonden"
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Klaar om je eerste post te publiceren?  <a href=“%1$s”>Begin hier</a>."
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, geen zoekresultaten gevonden. Probeer het nog eens met andere "
+"zoekwoorden."
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Het lijkt erop dat we niet kunnen vinden wat je zoekt. Wil je opnieuw "
+"zoeken?"
+
+#: template-parts/content-page.php:19 template-parts/content-single.php:28
+msgid "Pages:"
+msgstr "Pagina's:"
+
+#: template-parts/content-single-author.php:14
+msgid "About the author"
+msgstr "Over de auteur"
+
+#: template-parts/content-single-author.php:46
+msgid "View Posts"
+msgstr "Bekijk posts"
+
+#: template-parts/content-single-links.php:15
+msgid "Previous Post"
+msgstr "Vorige post"
+
+#: template-parts/content-single-links.php:17
+msgid "Next Post"
+msgstr "Volgende post"
