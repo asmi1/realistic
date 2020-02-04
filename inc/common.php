@@ -245,12 +245,13 @@ if ( !function_exists( 'realistic_breadcrumb' ) ) {
 		// Separator, change this if you want to change breadcrumb items separator
 		$sep = esc_html__( '/', 'realistic' ); ?>
 
-		<div class="breadcrumb" xmlns:v="http://rdf.data-vocabulary.org/#">
+		<div class="breadcrumb" itemscope itemtype="http://schema.org/BreadcrumbList">
 
-			<div typeof="v:Breadcrumb" class="root">
-				<a rel="v:url" property="v:title" href="<?php echo esc_url( home_url( '/' ) ); ?>">
-					<?php esc_html_e( 'Home', 'realistic' ); ?>
+			<div class="root" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				<a href="<?php echo esc_url( home_url( '/' ) ); ?>"  itemprop="item">
+					<span itemprop="name"><?php esc_html_e( 'Home', 'realistic' ); ?></span>
 				</a>
+				<meta itemprop="position" content="1" />
 			</div>
 
 			<div><?php echo $sep; ?></div>
@@ -260,26 +261,29 @@ if ( !function_exists( 'realistic_breadcrumb' ) ) {
 				<?php $categories = get_the_category();
 				if ( $categories ) { ?>
 
-					<div typeof="v:Breadcrumb">
-						<a href="<?php echo get_category_link( $categories[0]->term_id ); ?>" rel="v:url" property="v:title">
-							<?php echo $categories[0]->cat_name; ?>
+					<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+						<a href="<?php echo get_category_link( $categories[0]->term_id ); ?>" itemprop="item">
+							<span itemprop="name"><?php echo $categories[0]->cat_name; ?></span>
 						</a>
+						<meta itemprop="position" content="2" />
 					</div>
 					<div><?php echo $sep; ?></div>
 
 				<?php } ?>
 
 				<?php if ( is_single() ) { ?>
-					<div typeof='v:Breadcrumb'>
-						<span property='v:title'><?php the_title(); ?></span>
+					<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+						<span itemprop="name"><?php the_title(); ?></span>
+						<meta itemprop="position" content="3" />
 					</div>
 				<?php } ?>
 
 			<?php } else if ( is_page() ) { ?>
 
-				<div typeof='v:Breadcrumb'><span property='v:title'>
-					<?php the_title(); ?>
-				</span></div>
+				<div itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+				  <span itemprop="name"><?php the_title(); ?></span>
+					<meta itemprop="position" content="3" />
+				</div>
 
 			<?php } ?>
 
